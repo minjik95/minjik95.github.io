@@ -9,7 +9,7 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/computer.jpg
+    image : assets/img/laptop.jpg
     username : Minji Kwon
     description : 
     experience :
